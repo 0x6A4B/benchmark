@@ -9,13 +9,14 @@ Benchmarking servers and VPS instances
 
 | CPU | Cores | RAM | 1 CPU | All CPUs | Idle? | System |
 |-----|--|--|---|-|-|-|
-| Ryzen 7 5700G | 8/16 | 48GB | | | No | HP Omen |
-| Xeon 12?0V? | 4/4 | 16GB | | | | Fujitsu Primergy 1320 M2 |
-| i5-6500 | 4/4 | 8GB | | | | Fujitsu Esprimo ? |
-|i5-6700K | 4/8 | 16GB | | | | |
-| C2D 7200 | 2/2 | ?GB | | | | Dell Latitude D620? |
-| i5-3320M | 4/4 | 16GB | | | | Thinkpad X230 |
-| i7-4700Q | 4/8 | 16GB | | | | | Thinkpad T540p |
+| Ryzen 7 5700G | 8/16 | 48GB DDR4 | | | No | HP Omen |
+| Xeon E3-1220V5 @ 3GHz | 4/4 | 16GB DDR4 | | | | Fujitsu Primergy 1320 M2 |
+| i5-6500 | 4/4 | 8GB DDR4 | | | | Fujitsu Esprimo ? |
+| i5-6700K | 4/8 | 16GB DDR4 | | | | |
+| C2D 7200 | 2/2 | ?GB DDR2 | | | | Dell Latitude D620? |
+| i5-3230M | 2/4 | 16GB DDR3 | | | | Thinkpad X230 |
+| i5-5200U | 2/4 | 16GB DDR3 | | | | Thinkpad T450 |
+| i7-4700HQ | 4/8 | 16GB DDR3 | | | | | Thinkpad T540p |
 | Raspberry Pi | 1 | 512MB | | | | Raspberry |
 | Raspberry Pi 2 | 4 | 1GB | | | | Raspberry |
 | Raspberry Pi 3 | 4 | 1GB | | | | Raspberry |
