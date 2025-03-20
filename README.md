@@ -44,3 +44,4 @@ Benchmarking servers and VPS instances
 | i5-4570 | 4/4 | 16GB DDR3 | 1248 | 4058 | | HP EliteDesk 800 G1 | [link](https://leo.leung.xyz/wiki/Benchmark_for_HP_EliteDesk_800_G1) |
 | ARM A1.Flex | 4 | 24GB | 1444 | 4802 | | Oracle Ampere VPS | [link]() |
 | Ryzen 5 3600 | 6/12 | XX DDR4 | 1418 | 10518 | | Potato V3 | [link]() |
+| CX22 | 2 | 4GB | 525 | 1102 | | Hetzner CX22 | [link]() |
