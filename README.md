@@ -10,6 +10,7 @@ Benchmarking servers and VPS instances
 | CPU | Cores | RAM | 1 CPU | All CPUs | Idle? | Info |
 |-----|--|--|---|-|-|-|
 | Ryzen 7 5700G | 8/16 | 48GB DDR4 | 1162 | 10938 | NO | HP Omen |
+| Ryzen 7 5700G | 8/16 | 48GB DDR4 | 1316 | 11938 | YES | HP Omen, freshly restarted |
 | Xeon E3-1220V5 @ 3GHz | 4/4 | 16GB DDR4 | | | | Fujitsu Primergy 1320 M2 |
 | i5-6500 | 4/4 | 8GB DDR4 | | | | Fujitsu Esprimo ? |
 | i5-6700K | 4/8 | 16GB DDR4 | | | | |
